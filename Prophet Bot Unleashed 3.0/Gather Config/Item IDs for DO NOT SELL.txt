@@ -1,0 +1,71 @@
+26639	"Account Stash Stone"
+24389	;Supply Stash LVL 10
+24390	;Supply Stash LVL 5
+24391	;Supply Stash LVL 15
+24392	;Supply Stash LVL 20
+24393	;Supply Stash LVL 25
+24394	;Supply Stash LVL 30
+24395	;Supply Stash LVL 35
+24396	;Supply Stash LVL 40
+24397	;Supply Stash LVL 45
+18980	;Supply Stash LVL 40+
+18981	;Supply Stash LVL 45+
+18982	;Supply Stash LVL 50+
+18983	;Supply Stash LVL 55+
+18984	;Supply Stash LVL 60+
+18985	;Supply Stash LVL 65+
+18986	;Supply Stash LVL 70+
+18987	;Supply Stash LVL 75+
+18988	;Supply Stash LVL 80+
+18900	;Supply Stash LVL 100 - 105
+5295	;Common Alabaster Shard
+5312	;Darkseer Stone
+5313	;Shabby Ruby Shard
+5314	;Rough Ruby Shard
+5315	;Blemished Ruby Shard
+5316	;Common Ruby Shard
+5317	;Average Ruby Shard
+5318	;Ruby Gem
+5319	;Stone of Reverence
+5320	;Shabby Topaz Shard
+5321	;Rough Topaz Shard
+5322	;Blemished Topaz Shard
+5323	;Common Topaz Shard
+5324	;Average Topaz Shard
+5325	;Topaz Gem
+5311	;Amethyst Gem
+5310	;Average Amethyst Shard
+5296	;Average Alabaster Shard
+5297	;Jade Gem
+5298	;Snowflake Stone
+5299	;Shabby Aquamarine Shard
+5300	;Rough Aquamarine Shard
+5301	;Blemished Aquamarine Shard
+5302	;Common Aquamarine Shard
+5303	;Average Aquamarine Shard
+5304	;Aquamarine Gem
+5305	;Rainshower Stone
+5306	;Shabby Amethyst Shard
+5307	;Rough Amethyst Shard
+5308	;Blemished Amethyst Shard
+5309	;Common Amethyst Shard
+5326	;Lion's Eye Carbuncle
+6394	;Beautiful Alabaster Shard
+6395	;Flawless Alabaster Shard
+6412	;Perfect Ruby Shard
+6413	;Incomparable Ruby Shard
+6414	;Beautiful Topaz Shard
+6415	;Flawless Topaz Shard
+6416	;Immaculate Topaz Shard
+6417	;Perfect Topaz Shard
+6418	;Incomparable Topaz Shard
+12637	;Stone of the Savant
+12638	;Primeval Stone
+12639	;Stone of the Brute
+12640	;Stone of the Rogue
+12641	;Stone of Ancestral Knowledge
+21377	;Diamond of Tiger
+21378	;Diamond of Dragon
+6411	;Immaculate Ruby Shard
+6410	;Flawless Ruby Shard
+25988	;Flourishing Thorn

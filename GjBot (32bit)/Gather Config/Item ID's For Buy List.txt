@@ -1,0 +1,17 @@
+8617	;Small Healing Potion
+8618	;Medium Healing Potion
+8619	;Large Healing Potion
+8620	;Condensed Healing Potion
+8621	;Perfect Healing Potion
+8612	;Small Health Potion
+8613	;Medium Health Potion
+8614	;Large Health Potion
+
+8647	;Small Mana Potion
+8648	;Medium Mana Potion
+8649	;Large Mana Potion
+8650	;Condensed Mana Potion
+8651	;Perfect Mana Potion
+8642	;Small Mystery Potion
+8643	;Medium Mystery Potion
+8644	;Large Mystery Potion

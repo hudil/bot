@@ -1,0 +1,24 @@
+Gather Config - Use the button "Reset Files" in LifeSupport to build the gather lists for that player.
+You can delete names of Herbs/Resorces that you dont want to hunt located in the Gather Config folder.
+
+ResRail- Go to the the spot you would most likely spawn at if you were to die. Click "Set Rail" located in LifeSupport
+then go back in game and press f11 every 20m or so all the way out to were you want to hunt. Then press f10 to end the rail.
+
+ApothocaryRail- (Will walk back to Repair)Go to the nearest apothocary and stand right infront it then select it. Click "Set Rail" located in LifeSupport
+then go back in game. Hold shift and press f10. Then press f11 every 20m or so all the way out to were you want to hunt. Then press f10 to end the rail.
+
+WindowRenamer- First time you run the exe it will automaticly rename your client window to your character name. 
+If you close the program after it has renamed the window and start the exe agin a box will show up in top left corner
+you will need to enter the client window name you want to attach to.
+
+AirMobSupport- Will fly up to monster and loot now.
+
+NewLootingSystem- Knows how many items dropped and does not move to corpse unless items dropped.
+
+ThroughtleingSystem- Control how fast information updates set to bottom for slower computers. Can be found in LifeSupport.
+
+Walk/FlyBackToHomeXYZ- If there are no monsters to be found will walk or fly back to home xyz.
+(If flying will go to the hight where you were when you set your homexyz.)
+
+
+Thank you for your donation or donations you have made this release possible!
